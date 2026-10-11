@@ -10,3 +10,5 @@
 @media(min-width:1001px){nav{gap:18px}nav a{font-size:13px}.header-inner{gap:22px}}
 @media(min-width:1001px) and (max-width:1150px){.header-inner{gap:14px}.wordmark{font-size:15px}.wordmark small{font-size:6.5px}nav{gap:12px}nav a{font-size:11px}.logo{width:40px}.brand{gap:6px}}
 @media(max-width:650px){.portal-layout{grid-template-columns:1fr;gap:20px;padding-block:28px 40px}.portal-aside{padding:25px 0 0;border-left:0;border-top:1px solid var(--line)}.portal-status{padding:18px}.portal-layout h2{font-size:22px}.portal-steps h3{font-size:17px}}
+
+.portal-actions{display:flex;gap:22px;align-items:center;flex-wrap:wrap;margin-top:20px}.portal-actions .button{margin:0}
